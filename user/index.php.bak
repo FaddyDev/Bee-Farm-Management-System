@@ -1,0 +1,52 @@
+
+<?php
+ session_start();
+if(isset($_SESSION['loguser'])){}else{header("location:login.php");}
+
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>MKULIMA BEE</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+
+	
+	
+	</head>
+
+
+
+ <body style="background: url(img/index.jpg) no-repeat center center fixed">
+   <?php include("mainheader.php");?>
+ <div class="container"  style="border:solid white 2px; border-radius:10px;  background:rgba(255,255,255,0.7);">
+<div class="row">
+ 
+ 
+<div class="col-md-12 hidden-xs" > 
+ 
+	
+
+	
+
+
+
+</div>
+ 
+ 
+</div>
+<BR />
+
+
+<br />
+<?php include("mainfooter.php");?>
+</div>
+<!-- JAVASCRIPTS --> 
+<script src="layout/scripts/jquery.min.js"></script> 
+<script src="layout/scripts/jquery.fitvids.min.js"></script> 
+<script src="layout/scripts/jquery.mobilemenu.js"></script> 
+<script src="layout/scripts/tabslet/jquery.tabslet.min.js"></script>
+</body>
+</html>

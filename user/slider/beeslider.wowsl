@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>beeslider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>basic</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/flat/</ImageTemplate>
+            <ImageTemplateName>Flat</ImageTemplateName>
+            <ImageWidth>830</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/BRIAN/Documents/5/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/BRIAN/Documents/5</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>49</SlideshowDelay>
+            <SlideshowDuration>16</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Signika</TemplateFont>
+            <TemplateName>flat</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/5.jpg</url>
+                <title>Clean and Mordern Harvesting</title>
+                <filesize>48193</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/9.jpg</url>
+                <title>All Products Readily Availlable </title>
+                <filesize>41856</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/bee26.jpg</url>
+                <title>Variety of Products</title>
+                <filesize>61128</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/Buy-Forever-Royal-Jelly-and-Bee-Products-U.jpg</url>
+                <title>Forever Royal Jelly and Bee Products</title>
+                <filesize>190866</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/Honey-Cookies-Bee-Bokeh-Hd-Wallpaper-1024x640.jpg</url>
+                <title>Honey Cookies Bee Bokeh</title>
+                <filesize>109104</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/jars_of_honey.jpg.662x0_q70_crop-scale.jpg</url>
+                <title>Jars of Natural  Honey</title>
+                <filesize>33171</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/BRIAN/Desktop/bee pics/S32zfm9.jpg</url>
+                <title>Hybrid Bee</title>
+                <filesize>95858</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
